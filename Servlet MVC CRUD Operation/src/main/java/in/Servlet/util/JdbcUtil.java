@@ -27,7 +27,6 @@ public class JdbcUtil {
 
 	public static Connection getJdbcConnection() throws SQLException, IOException {
 
-//		String fileLoc = "D:\\octbatchservletpgms\\JDBCCRUDAPP\\src\\main\\java\\in\\ineuron\\properties\\application.properties";
 		String fileLoc = "C:\\Users\\admin\\eclipse-workspace\\Servlet MVC CRUD Operation\\src\\main\\java\\in\\Servlet\\properties\\application.properties";
 		HikariConfig config = new HikariConfig(fileLoc);
 		HikariDataSource dataSource = new HikariDataSource(config);
@@ -37,7 +36,7 @@ public class JdbcUtil {
 
 	@SuppressWarnings("unused")
 	private static Connection physicalConnection() throws FileNotFoundException, IOException, SQLException {
-		String fileLoc = "D:\\octbatchservletpgms\\JDBCCRUDAPP\\src\\main\\java\\in\\ineuron\\properties\\application.properties";
+		String fileLoc = "C:\\Users\\admin\\eclipse-workspace\\Servlet MVC CRUD Operation\\src\\main\\java\\in\\Servlet\\properties\\application.properties";
 		FileInputStream fis = new FileInputStream(fileLoc);
 		Properties properties = new Properties();
 		properties.load(fis);
