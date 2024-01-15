@@ -37,7 +37,7 @@ Enhanced my skills in Java, web application development, and understanding of ad
 
 🔸Source Code and Demo ::
 
-The source code is available on GitHub at [GitHub URL :: ].
+The source code is available on GitHub at [GitHub URL :: https://github.com/Amar-Yele/MVC-CRUD-APP].
 
-A live demo can be viewed at [LinkedIn Video URL :: ].
+A live demo can be viewed at [LinkedIn Video URL :: https://www.linkedin.com/posts/amar-yele-255a9a20b_day85-100daysofcodingchallenge-backend-activity-7150920861343027200-cDXZ?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy].
 
